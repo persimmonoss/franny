@@ -1,0 +1,1 @@
+FRANNY_VERSION = "v21.1"
